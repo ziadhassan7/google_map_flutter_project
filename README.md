@@ -1,16 +1,18 @@
 # google_map_project
 
-A new Flutter project.
+Floating Widgets using the Stack Widget,
 
-## Getting Started
+And a ListView that casts shadow on screen when opened.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/31738365/160535371-7e2e11c0-91f5-4a93-beb3-cce1e08e2c83.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+every location on menu, directs you to that location on the map.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+.
+
+# Get instatant location of where you are:  
+  
+![Map App - Location](https://user-images.githubusercontent.com/31738365/160535916-6a27e92c-8476-4e23-8076-e6babc523a67.jpeg)
+
+
